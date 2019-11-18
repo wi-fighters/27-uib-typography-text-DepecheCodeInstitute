@@ -11,3 +11,9 @@ h1 {
 li {
     font-weight: 100;
 }
+
+.heading {
+    text-shadow: crimson 2px 5px;
+    text-transform: uppercase;
+    /* not so apparent because of excellent choice of font */
+}
