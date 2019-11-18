@@ -1,3 +1,13 @@
 * {
     font-family: 'Libre Barcode 39 Text', cursive;
 }
+
+h1 {
+    text-decoration: underline;
+    text-decoration-color: blueviolet;
+    font-size: 5em;
+}
+
+li {
+    font-weight: 100;
+}
