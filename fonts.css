@@ -1,11 +1,12 @@
 * {
     font-family: 'Libre Barcode 39 Text', cursive;
+    font-size: 1.25em;
 }
 
 h1 {
     text-decoration: underline;
     text-decoration-color: blueviolet;
-    font-size: 5em;
+    font-size: 2em;
 }
 
 li {
@@ -16,4 +17,9 @@ li {
     text-shadow: crimson 2px 5px;
     text-transform: uppercase;
     /* not so apparent because of excellent choice of font */
+}
+
+.note {
+    font-weight: bolder;
+    font-style: italic;
 }
